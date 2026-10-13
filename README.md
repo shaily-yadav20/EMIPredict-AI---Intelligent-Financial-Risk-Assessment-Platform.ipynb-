@@ -1,6 +1,7 @@
 # 💰EMI Predict AI-Intelligent Financial Risk Assessment Platform
 
 **EMIPredict AI** is a Machine Learning-based financial risk assessment system that predicts whether a customer is eligible for an EMI/loan and estimates the **maximum safe monthly EMI** they can afford.
+LIVE DEMO: https://charm-nexus-hub.lovable.app
 
 The project uses customer financial, employment, credit, expense, and loan information to perform both:
 
